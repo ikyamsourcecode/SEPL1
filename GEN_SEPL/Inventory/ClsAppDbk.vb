@@ -25,7 +25,7 @@
 
     Sub CreateForm(ByVal FormUID As String)
         Try
-            oUtilities.SAPXML("UBG_DBK_LST.xml")
+            oUtilities.SAPXML("UBG_DBK_LST.")
             objForm = oApplication.Forms.GetForm("UBG_DBK_LST", oApplication.Forms.ActiveForm.TypeCount)
             oDBs_Head = objForm.DataSources.DBDataSources.Item("@UBG_DBK_LST")
             oDBs_Detail = objForm.DataSources.DBDataSources.Item("@UBG_DBK_LST_D0")

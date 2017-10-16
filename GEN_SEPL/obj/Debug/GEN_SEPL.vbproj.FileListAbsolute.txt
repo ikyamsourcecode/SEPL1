@@ -475,3 +475,18 @@ D:\My Projects\SEPL\Latest SEPL Code\GEN_SEPL_05_09_2017\GEN_SEPL\obj\Debug\GEN_
 D:\My Projects\SEPL\Latest SEPL Code\GEN_SEPL_05_09_2017\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
 D:\My Projects\SEPL\Latest SEPL Code\GEN_SEPL_05_09_2017\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
 D:\My Projects\SEPL\Latest SEPL Code\GEN_SEPL_05_09_2017\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.vbprojResolveAssemblyReference.cache
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+C:\Users\omsan\Documents\GitHub\SEPL1\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
