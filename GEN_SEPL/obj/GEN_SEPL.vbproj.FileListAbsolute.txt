@@ -1,0 +1,602 @@
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\cstLng.dll
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\Helper.dll
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+C:\Documents and Settings\sreenivasmr\Desktop\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+C:\Documents and Settings\sreenivas\Desktop\Vinoth\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+C:\Documents and Settings\sreenivas\Desktop\Vinoth\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+C:\Documents and Settings\sreenivas\Desktop\Vinoth\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+D:\UBG\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+D:\UBG\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+D:\UBG\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+D:\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+D:\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+D:\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+D:\VIVEK\SAP B1 Solution Components\SEPL\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+D:\Projects\SEPL Source 17Oct2011\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+D:\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+E:\Projects Source Code From Laptop - 27-10-2011\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+E:\Projects Source Code From Laptop - 27-10-2011\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+E:\Projects Source Code From Laptop - 27-10-2011\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+E:\WIP\Projects\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContract_GRPO.rpt
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+E:\Projects\UB-Global\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContract_GRPO.rpt
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+E:\Projects\UB-Global\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContract_GRPO.rpt
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+C:\Users\Administrator\Desktop\Latest_SEPL_As_On_09_05_12\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.UploadExcel.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.UploadExcel1.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContract_GRPO.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\ResolveAssemblyReference.cache
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\Interop.SAPbobsCOM.dll
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\Interop.SAPbouiCOM.dll
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.vbproj.ResolveComReference.cache
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.Menu.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_PROD_PRCS.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CUST_BOM.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.MaterialRequisition.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.PTN.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_UNIT_MST.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContracting.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContractingDC.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContractingReturn.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContracting_GRPO.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.WorkOrderWiz.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_FIN_SETUP.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_FIN_DESCR.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_MACH_ALLOC.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CAP_PLAN.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_PARAM_MST.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_ITEM_CREATE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_MACH_POOL.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_STH_DESCR.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_ITM_TYPE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_ITM_MST.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SUB_TYPE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CUST_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_STYLE_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_COLOR_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_QLTY_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SIZE_CODE.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_COST_SHEET.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CST_PRCS.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SOORD.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SizeMatrix.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.AssortedMaster.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.UploadExcel.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.UploadExcel1.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SEPL_DC.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SEPL_MRN.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContract_GRPO.rpt
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.Resources.resources
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.Crystal_Form.resources
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.vbproj.GenerateResource.Cache
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.exe
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.xml
+E:\MY_PROJECTS\UB-GLOBAL\SEPL\LATEST_SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.pdb
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.exe
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.pdb
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.exe
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.pdb
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\GEN_SEPL.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.ResolveComReference.cache
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Menu.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PROD_PRCS.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_BOM.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.MaterialRequisition.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.PTN.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_UNIT_MST.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingDC.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContractingReturn.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContracting_GRPO.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.WorkOrderWiz.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_SETUP.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_FIN_DESCR.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_ALLOC.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CAP_PLAN.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_PARAM_MST.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITEM_CREATE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_MACH_POOL.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STH_DESCR.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_TYPE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_ITM_MST.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SUB_TYPE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CUST_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_STYLE_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COLOR_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_QLTY_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SIZE_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_COST_SHEET.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_CST_PRCS.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SOORD.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SizeMatrix.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.AssortedMaster.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.UploadExcel.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.UploadExcel1.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_DC.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.GEN_SEPL_MRN.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.SubContract_GRPO.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Resources.resources
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.Crystal_Form.resources
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.vbproj.GenerateResource.Cache
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.exe
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Debug\GEN_SEPL.pdb
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\Interop.SAPbobsCOM.dll
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\Interop.SAPbouiCOM.dll
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.vbproj.ResolveComReference.cache
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.Menu.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_PROD_PRCS.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CUST_BOM.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.MaterialRequisition.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.PTN.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_UNIT_MST.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContracting.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContractingDC.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContractingReturn.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContracting_GRPO.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.WorkOrderWiz.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_FIN_SETUP.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_FIN_DESCR.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_MACH_ALLOC.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CAP_PLAN.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_PARAM_MST.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_ITEM_CREATE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_MACH_POOL.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_STH_DESCR.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_ITM_TYPE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_ITM_MST.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SUB_TYPE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CUST_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_STYLE_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_COLOR_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_QLTY_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SIZE_CODE.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_COST_SHEET.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_CST_PRCS.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SOORD.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SizeMatrix.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.AssortedMaster.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.UploadExcel.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.UploadExcel1.xml
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SEPL_DC.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SEPL_SC_PO.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.GEN_SEPL_MRN.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.SubContract_GRPO.rpt
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.Resources.resources
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.Crystal_Form.resources
+C:\Users\Munagala\Desktop\UB_PROJECTS\UB_PROJECTS\SEPL\GEN_SEPL\GEN_SEPL\obj\Release\GEN_SEPL.vbproj.GenerateResource.Cache

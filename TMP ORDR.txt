@@ -1,0 +1,8 @@
+Create Table TMP_ORDR_ITEMS
+(
+ordrno			Varchar(30),
+itemcode		Varchar(30),
+asrtcode		Varchar(30),
+qty				Varchar(30),
+macid			Varchar(30)
+)

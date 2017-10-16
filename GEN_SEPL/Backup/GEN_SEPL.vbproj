@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CF871BBC-1561-439F-8930-181EC40D1585}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>GEN_SEPL</RootNamespace>
+    <AssemblyName>GEN_SEPL</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GEN_SEPL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GEN_SEPL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="cstLng, Version=1.0.0.2, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\UBG\UBG\GEN_UBG\GEN_UBG\GEN_UBG\bin\Debug\cstLng.dll</HintPath>
+    </Reference>
+    <Reference Include="Helper, Version=1.0.2601.20409, Culture=neutral">
+      <HintPath>..\..\GEN_UBITL1\bin\Debug\Helper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administration\ClsUser.vb" />
+    <Compile Include="Banking\ClsForwardCover.vb" />
+    <Compile Include="Banking\ClsIncomingPayments.vb" />
+    <Compile Include="Banking\ClsOutgoingPayments.vb" />
+    <Compile Include="bin\Debug\GEN_SEPL_DC.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GEN_SEPL_DC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\GEN_SEPL_MRN.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GEN_SEPL_MRN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\GEN_SEPL_SC_PO.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GEN_SEPL_SC_PO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\preship.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>preship.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\SubContract_GRPO.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SubContract_GRPO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crystal_Form.designer.vb">
+      <DependentUpon>Crystal_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crystal_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finance\ClsCOA.vb" />
+    <Compile Include="Finance\ClsJE.vb" />
+    <Compile Include="FrameWork\ClsUtilities.vb" />
+    <Compile Include="FrameWork\GEN_SEPL.vb" />
+    <Compile Include="Inventory\ClsAppDbk.vb" />
+    <Compile Include="Inventory\ClsAssortedMaster.vb" />
+    <Compile Include="Inventory\ClsGEN_COLOR_CODE.vb" />
+    <Compile Include="Inventory\ClsGEN_CUST_CODE.vb" />
+    <Compile Include="Inventory\ClsGEN_QLTY_CODE.vb" />
+    <Compile Include="Inventory\ClsGEN_SIZE_CODE.vb" />
+    <Compile Include="Inventory\ClsGEN_STYLE_CODE.vb" />
+    <Compile Include="Inventory\ClsGEN_SUB_TYPE.vb" />
+    <Compile Include="Inventory\ClsGoodsIssue.vb" />
+    <Compile Include="Inventory\ClsGoodsReceipt.vb" />
+    <Compile Include="Inventory\ClsInventoryTransfer.vb" />
+    <Compile Include="Inventory\ClsItemCreate.vb" />
+    <Compile Include="Inventory\ClsItemMasterData.vb" />
+    <Compile Include="Inventory\ClsItemMst.vb" />
+    <Compile Include="Inventory\ClsItemType.vb" />
+    <Compile Include="Inventory\ClsMaterialRequisition.vb" />
+    <Compile Include="Inventory\ClsParamMst.vb" />
+    <Compile Include="Inventory\ClsSizeMaster.vb" />
+    <Compile Include="Inventory\ClsSuppPrice.vb" />
+    <Compile Include="Master\ClsBP.vb" />
+    <Compile Include="Master\ClsEcgc.vb" />
+    <Compile Include="Master\ClsItemMaster.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Production\ClsCustomBOM.vb" />
+    <Compile Include="Production\ClsFinishScreen.vb" />
+    <Compile Include="Production\ClsFinishSetup.vb" />
+    <Compile Include="Production\ClsGRPOLC.vb" />
+    <Compile Include="Production\ClsIssueForProduction.vb" />
+    <Compile Include="Production\ClsMachineAllocation.vb" />
+    <Compile Include="Production\ClsMachinePool.vb" />
+    <Compile Include="Production\ClsProductionOrder.vb" />
+    <Compile Include="Production\ClsProductionProcess.vb" />
+    <Compile Include="Production\ClsPTN.vb" />
+    <Compile Include="Production\ClsReceiptFromProduction.vb" />
+    <Compile Include="Production\ClsStitchScreen.vb" />
+    <Compile Include="Production\ClsUnitMaster.vb" />
+    <Compile Include="Production\ClsUploadBOM.vb" />
+    <Compile Include="Production\ClsWorOrdrGenWiz.vb" />
+    <Compile Include="obj\Purchase\ClsAPCreditMemo.vb" />
+    <Compile Include="obj\Purchase\clsAPInvoice.vb" />
+    <Compile Include="obj\Purchase\ClsGRPO.vb" />
+    <Compile Include="obj\Purchase\ClsPurchaseOrder.vb" />
+    <Compile Include="obj\Purchase\ClsPurchaseReturn.vb" />
+    <Compile Include="obj\Purchase\ClsSubContract.vb" />
+    <Compile Include="obj\Purchase\ClsSubContract_DC.vb" />
+    <Compile Include="obj\Purchase\ClsSubContract_GRPO.vb" />
+    <Compile Include="obj\Purchase\ClsSubContract_Return.vb" />
+    <Compile Include="Sales\ClsApportionAccural.vb" />
+    <Compile Include="Sales\ClsARCreditMemo.vb" />
+    <Compile Include="Sales\ClsARInvoice.vb" />
+    <Compile Include="Sales\ClsDelivery.vb" />
+    <Compile Include="Sales\ClsGEN_COST_SHEET.vb" />
+    <Compile Include="Sales\ClsGEN_CST_PRCS.vb" />
+    <Compile Include="Sales\ClsPreShipment.vb" />
+    <Compile Include="Sales\ClsSalesOrder.vb" />
+    <Compile Include="Sales\ClsSalesQuotation.vb" />
+    <Compile Include="Sales\ClsSalesReturn.vb" />
+    <Compile Include="Sales\Clssam.vb" />
+    <Compile Include="Sales\ClsSAMRevaluation.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\Menu.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_PROD_PRCS.xml" />
+    <EmbeddedResource Include="XMLFiles\GEN_CUST_BOM.xml" />
+    <EmbeddedResource Include="XMLFiles\MaterialRequisition.xml" />
+    <EmbeddedResource Include="XMLFiles\PTN.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Crystal_Form.resx">
+      <DependentUpon>Crystal_Form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XMLFiles\GEN_UNIT_MST.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\SubContracting.xml" />
+    <EmbeddedResource Include="XMLFiles\SubContractingDC.xml" />
+    <EmbeddedResource Include="XMLFiles\SubContractingReturn.xml" />
+    <EmbeddedResource Include="XMLFiles\SubContracting_GRPO.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\WorkOrderWiz.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_FIN_SETUP.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_FIN_DESCR.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_MACH_ALLOC.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_CAP_PLAN.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_PARAM_MST.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_ITEM_CREATE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_MACH_POOL.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\GEN_SEPL_DC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GEN_SEPL_DC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\GEN_SEPL_SC_PO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GEN_SEPL_SC_PO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XMLFiles\GEN_STH_DESCR.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SAPbobsCOM">
+      <Guid>{FC8030BE-F5D2-4B8E-8F92-44228FE30090}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SAPbouiCOM">
+      <Guid>{6048236A-956D-498D-A6F1-9C81C13AB6E8}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_ITM_TYPE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_ITM_MST.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_SUB_TYPE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_CUST_CODE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_STYLE_CODE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_COLOR_CODE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_QLTY_CODE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_SIZE_CODE.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_COST_SHEET.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\GEN_CST_PRCS.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\SOORD.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\SizeMatrix.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\GEN_SEPL_MRN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GEN_SEPL_MRN.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\SubContract_GRPO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SubContract_GRPO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XMLFiles\AssortedMaster.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XMLFiles\UploadExcel.xml" />
+    <EmbeddedResource Include="XMLFiles\UploadExcel1.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\preship.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>preship.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XMLFiles\GEN_LCosts.xml" />
+    <EmbeddedResource Include="XMLFiles\GEN_GRPO_LCosts.xml" />
+    <EmbeddedResource Include="XMLFiles\Accruals.xml" />
+    <EmbeddedResource Include="XMLFiles\Accruals_Order.xml" />
+    <EmbeddedResource Include="XMLFiles\Accruals_Pre.xml" />
+    <EmbeddedResource Include="XMLFiles\Freight_Pre.xml" />
+    <EmbeddedResource Include="XMLFiles\GEN_FRM_APP_ACC.xml" />
+    <EmbeddedResource Include="XMLFiles\ForwardCover.xml" />
+    <EmbeddedResource Include="XMLFiles\ECGCMaster.xml" />
+    <Content Include="XMLFiles\GEN_LCosts_Old.xml" />
+    <Content Include="XMLFiles\GEN_OTP.xml" />
+    <EmbeddedResource Include="XMLFiles\OTHERCHRGS.xml" />
+    <EmbeddedResource Include="XMLFiles\OTHERCHRGSOP.xml" />
+    <EmbeddedResource Include="XMLFiles\UBG_DBK_LST.xml" />
+    <EmbeddedResource Include="XMLFiles\PreFreight.xml" />
+    <EmbeddedResource Include="XMLFiles\PreShipment.xml" />
+    <EmbeddedResource Include="XMLFiles\Supp_Price.xml" />
+    <EmbeddedResource Include="XMLFiles\GEN_SAM.xml" />
+    <EmbeddedResource Include="XMLFiles\SAM_REVALUATION.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ApprovalProcedure\" />
+    <Folder Include="FrameWork\Master\" />
+    <Folder Include="Service\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

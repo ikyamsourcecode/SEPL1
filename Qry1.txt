@@ -1,0 +1,42 @@
+Alter Proc GEN_SEPL_Custom_BOM
+(
+@DocNum			VarChar(30)
+)
+
+As
+
+Begin
+
+Select 
+A.DocNum,
+A.U_docdate,
+A.U_sono,
+A.U_soref,
+A.U_itemcode 'FGCode',
+A.U_itemname 'FGName',
+A.U_qty,
+(Select IsNull(SUM(Convert(Money,u_cutqty)),0) From [@GEN_SZ_ORDR] Where U_sono = A.u_sono And U_itemcode = A.u_itemcode) 'CutQty',
+B.U_itemcode,
+B.U_itemname,
+B.U_size,
+B.U_totqty,
+B.U_uom,
+B.U_process,
+B.U_cardcode,
+B.U_cardname,
+B.U_remarks,
+B.U_place
+From 
+
+[@GEN_CUST_BOM] A INNER JOIN [@GEN_CUST_BOM_D0] B
+ON A.DocEntry  = B.DocEntry Inner Join ORDR C on A.U_sono = C.DocNum
+Inner Join RDR1 D on C.DocEntry = D.DocEntry ANd A.U_itemcode = D.ItemCode 
+
+Where
+A.DocNum = @DocNum 
+
+
+End
+
+
+--Exec GEN_SEPL_Custom_BOM '6'

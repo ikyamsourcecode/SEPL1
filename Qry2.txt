@@ -1,0 +1,24 @@
+Alter Proc GEN_SEPL_Custom_BOM_Qty
+(
+@DocNum		VarChar(30)
+)
+
+As
+
+Begin
+
+Select Distinct 
+Convert(VarCHar(30),E.U_size) 'Size',
+E.U_qty 
+From
+[@GEN_CUST_BOM] A INNER JOIN [@GEN_CUST_BOM_D0] B
+ON A.DocEntry  = B.DocEntry Inner Join ORDR C on A.U_sono = C.DocNum
+Inner Join RDR1 D on C.DocEntry = D.DocEntry ANd A.U_itemcode = D.ItemCode 
+Inner join [@GEN_SZ_ORDR] E On C.DocNum = E.u_sono And D.ItemCode = E.u_itemcode
+
+Where
+A.DocNum = @DocNum 
+
+ENd
+
+--Exec GEN_SEPL_Custom_BOM_Qty '6'

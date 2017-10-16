@@ -1,0 +1,6 @@
+02/07/13
+
+AddonName: GEN_SEPL_2_8_0
+Version: 2.8.0
+
+Modifications: Cost Center not mandatory  when user selects customer in JE
